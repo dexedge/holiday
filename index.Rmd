@@ -1,0 +1,28 @@
+--- 
+title: "Hearing Holiday"
+author: "Dexter Edge"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::bs4_book:
+    theme:
+      primary: "#637238"
+  bookdown::gitbook:
+    lib_dir: "book_assets"
+  bookdown::html_book:
+    theme: united
+documentclass: book
+# bibliography: [book.bib, packages.bib]
+# biblio-style: apalike
+# link-citations: yes
+---
+
+# Preface {-}
+
+Motivation
+
+Work in progress, with open commenting/peer review
+
+## Acknowledgements {-}
+
+Matthew K. Dick. Randal Baier, Steven Whiting ...

@@ -1,0 +1,27 @@
+delete_merged_file: true
+
+language:
+  ui:
+    chapter_name: "Chapter "
+
+rmd_files: [
+  "index.Rmd", 
+  "01-Introduction.Rmd",
+  "02-Prior.Rmd",
+  "03-Representing.Rmd",
+  "04-Methods.Rmd",
+  "05-Song.Rmd",
+  "06-Tune.Rmd",
+  "07-Master.Rmd",
+  "08-Rhythm.Rmd",
+  "09-Profile.Rmd",
+  "10-Gestures.Rmd",
+  "11-Young.Rmd",
+  "12-Alternates.Rmd",
+  "13-Later.Rmd",
+  "14-After.Rmd",
+  "15-Summary.Rmd",
+  "16-Contexts.Rmd",
+  "17-Oeuvre.Rmd",
+  "18-Earliest.Rmd",
+]

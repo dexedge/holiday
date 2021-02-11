@@ -1,0 +1,3 @@
+# Methods: Introduction
+
+This is the chapter on methods
