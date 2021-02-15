@@ -8,7 +8,9 @@ output:
   bookdown::bs4_book:
     theme:
       primary: "#637238"
-    repo: /dexedge/holiday
+    repo: https://github.com/dexedge/holiday
+    includes:
+      after_body: local_js.html
   bookdown::gitbook:
     lib_dir: "book_assets"
 documentclass: book
@@ -26,3 +28,4 @@ Work in progress, with open commenting/peer review
 ## Acknowledgements {-}
 
 Matthew K. Dick. Randal Baier, Steven Whiting ...
+
