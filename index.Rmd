@@ -10,7 +10,7 @@ output:
       primary: "#637238"
     repo: https://github.com/dexedge/holiday
     includes:
-      after_body: local_js.html
+      in_header: local_js.html
   bookdown::gitbook:
     lib_dir: "book_assets"
 documentclass: book
