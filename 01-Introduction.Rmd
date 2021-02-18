@@ -1,7 +1,3 @@
-<style>
-   pre { border: 0;}
-</style>
-
 # Introduction: "All of Me"
 
 This is the introduction

@@ -1,0 +1,17 @@
+/* Hearing Holiday CSS */
+
+.inline-figure {
+  border: 0;
+}
+
+.img {
+  align: center;
+}
+
+p.caption {
+  text-align:center;
+}
+
+pre { 
+  border: 0;
+}

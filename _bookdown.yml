@@ -24,4 +24,5 @@ rmd_files: [
   "16-Contexts.Rmd",
   "17-Oeuvre.Rmd",
   "18-Earliest.Rmd",
+  "Bibliography.Rmd",
 ]
