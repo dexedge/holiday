@@ -9,8 +9,6 @@ output:
     theme:
       primary: "#637238"
     repo: https://github.com/dexedge/holiday
-    includes:
-      in_header: local_js.html
     css: holiday.css
   bookdown::gitbook:
     lib_dir: "book_assets"
@@ -24,7 +22,6 @@ link-citations: yes
 # Preface {-}
 
 <img src="images/Peterson-Commodore-1939.jpg" width="600px" height="450px" class="cover">
-
 
 Motivation
 
